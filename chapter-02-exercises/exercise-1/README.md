@@ -26,6 +26,7 @@ Open up your command-line terminal, and perform the following tasks (no need to 
 
 # Display the contents of the "constitution.txt" file in the terminal
 # Hint: use the `less` command so you can easily scroll up and down.
+# For windows users: use the `more` command. 
 
 
 # Navigate to the "Desktop" folder for your machine
