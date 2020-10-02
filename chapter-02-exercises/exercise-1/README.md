@@ -27,7 +27,11 @@ ls
 
 # Display the contents of the in the terminal
 # Hint: use the `less` command so you can easily scroll up and down.
+# For windows, use the `more` command.
 less constitution.txt
+
+For windows:
+more constitution.txt
 
 # Navigate to the "Desktop" folder for your machine
 cd ../../Desktop #path may vary
