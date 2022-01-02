@@ -13,7 +13,7 @@ Open up your command-line terminal, and perform the following tasks (no need to 
 -  Navigate into the "quick-exercise" folder you just created
 
 
--  Using the text editor of your choice (e.g., Atom, TextEdit, ), create a new (empty) file called "constitution.txt" inside the "quick-exercise" folder that you made
+-  Using the text editor of your choice (e.g., Atom, TextEdit, Notepad), create a new (empty) file called "constitution.txt" inside the "quick-exercise" folder that you made
 
 
 -  List the contents of the folder to verify the new file is there
