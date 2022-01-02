@@ -29,7 +29,7 @@ Open up your command-line terminal, and perform the following tasks (no need to 
 
 -  Display the contents of the "Documents/quick-exercise/constitution.txt" file in the terminal *without changing directories again!*
 
--  Bonus: search for a word in the US Constituion (try "tax," "freedom," and "america")
+-  Bonus: search for a word in the US Constitution (try "tax," "freedom," and "america")
 
 
 
