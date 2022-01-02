@@ -39,9 +39,9 @@ cat ../Documents/quick-exercise/constitution.txt
 
 # Bonus: Search for a word in the US Constitution
 # Mac 
-grep "tax" constitution.txt
-grep "tax" constitution.txt -n -- color 
+grep "tax" ../Documents/quick-exercise/constitution.txt
+grep "tax" ../Documents/quick-exercise/constitution.txt -n -- color 
 # Windows
-findstr "tax" constitution.txt
+findstr "tax" ../Documents/quick-exercise/constitution.txt
 
 ```
