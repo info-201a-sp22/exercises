@@ -16,7 +16,7 @@
 
 # Use the `gsub()` function to substitute all the "a"s in `fruits` with "ee".
 # Store the result in a variable called `fruits_e`
-# Hint: see http://www.endmemo.com/program/R/sub.php for a simpmle example (or 
+# Hint: see http://www.endmemo.com/r/gsub.php for a simpmle example (or 
 # use `?gsub`)
 
 
