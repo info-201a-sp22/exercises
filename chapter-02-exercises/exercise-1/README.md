@@ -14,7 +14,7 @@ Open up your command-line terminal, and perform the following tasks:
 
 -  Now, going back to your command line interface, list the contents of your "quick-exercise" folder to verify that the new file is there
 
--  Display the contents of the "constitution.txt" file in the terminal
+-  Display the contents of the "address.txt" file in the terminal
     -  *Hint: Mac Users can use the `less` command to easily scroll up and down. Windows users can use the `more` command.*
 
 -  Navigate to the "Documents" folder for your machine
