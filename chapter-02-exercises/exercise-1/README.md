@@ -11,11 +11,11 @@ mkdir quick-exercise
 # Navigate into that folder
 cd quick-exercise
 
-# Using the text editor of your choice (e.g., Atom, TextEdit), create a new (empty) file called "address.txt" inside the "quick-exercise" folder you made
+# Download file from Project Gutenberg
 # Mac
-touch address.txt
+curl -O https://www.gutenberg.org/cache/epub/37106/pg37106.txt
 # Windows
-ni address.txt
+wget https://www.gutenberg.org/cache/epub/37106/pg37106.txt -OutFile LittleWomen.txt
 # or manually create the empty file
 
 # List the contents of the folder to verify the new file is there
@@ -23,21 +23,21 @@ ls
 
 # Display the contents of the folder in the terminal
 # Mac
-less address.txt
+less LittleWomen.txt
 # Windows
-more address.txt
+more LittleWomen.txt
+
+# Bonus: Search for a word in the address
+# Mac 
+grep "dress" ../Desktop/quick-exercise/LittleWomen.txt
+# Windows
+findstr "dress" ../Desktop/quick-exercise/LittleWomen.txt
 
 # Navigate to the "Documents" folder for your machine
 cd ../../Documents #path may vary
 
-# Display the contents of the "Desktop/quick-exercise/constitution.txt" file in the Terminal *without changing directories again!*
-cat ../Desktop/quick-exercise/address.txt
+# Display the contents of the "Desktop/quick-exercise/ittleWomen.txt" file in the Terminal *without changing directories again!*
+cat ../Desktop/quick-exercise/LittleWomen.txt
 # cat shows entire contents in one dump; less is also an acceptable command
 
-# Bonus: Search for a word in the address
-# Mac 
-grep "tax" ../Desktop/quick-exercise/address.txt
-grep "tax" ../Desktop/quick-exercise/address.txt -n -- color 
-# Windows
-findstr "tax" ../Desktop/quick-exercise/address.txt
 ```
