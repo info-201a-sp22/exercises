@@ -4,24 +4,25 @@ This exercise is a brief review of terminal commands. You will navigate through 
 Open up your command-line terminal, and perform the following tasks:
 
 
--  Navigate to your "Desktop" directory
+1.  First, navigate to your "Desktop" directory from the command line
 
--  Create a new folder called "quick-exercise"
+2.  Then, create a new folder called "quick-exercise"
 
--  Navigate into the "quick-exercise" folder you just created
+3.  Navigate into the "quick-exercise" folder you just created
 
--  Go this [website of Presidential Inaugural Addresses](https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/inaugural-addresses), and choose an address to use for this exercise. Next, using a text editor of your choice (i.e., a software application that allows you to create text documents like Atom, TextEdit, or Notepad), make a new file called "address.txt" and manually copy and paste the text of your Inaugural Address inside the text file. Be sure to save this file inside the "quick-exercise" folder that you made
+4.  Go to [Project Gutenberg](https://www.gutenberg.org/ebooks/search/?sort_order=downloads). Browse through the available texts and pick one — preferably a text that you've read before or that you have some interest in. Click on the text and then click on "Plain Text UTF-8." Now download that plain text file via the URL. Rename the file something more coherent and readable (if using Windows, you may have already renamed it). If you have trouble, you can also save this file manually, but be sure to save this file inside the "quick-exercise" folder
 
--  Now, going back to your command line interface, list the contents of your "quick-exercise" folder to verify that the new file is there
+5.  Now, going back to your command line interface, list the contents of your "quick-exercise" folder to verify that the new file is there
 
--  Display the contents of the "address.txt" file in the terminal
+6.  Display the contents of your text file in the terminal
     -  *Hint: Mac Users can use the `less` command to easily scroll up and down. Windows users can use the `more` command.*
+    
+✨ Bonus: search for a word in your text file! ✨
 
--  Navigate to the "Documents" folder for your machine
+7.  Now for something a little harder... navigate to your "Documents" folder
 
--  Display the contents of the "Desktop/quick-exercise/address.txt" file in the terminal *without changing directories again!*
+8.  Display the contents of your text file again, but this time *without changing directories* (this will require that you understand the relationship between your Desktop folder and your Documents folder!)
 
--  Bonus: search for a word in the Inaugural Address (try "tax," "freedom," and "america")
 
 
 
