@@ -1,5 +1,5 @@
 #  Exercise 1
-This exercise is a brief review of terminal commands. You will navigate through your files and eventually do some basic text analysis with a Presidential Inaugural Address.
+This exercise is a brief review of terminal commands. You will navigate through your files and eventually do some basic text analysis with a text from Project Gutenberg.
 
 Open up your command-line terminal, and perform the following tasks:
 
